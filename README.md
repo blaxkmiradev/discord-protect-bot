@@ -1,5 +1,3 @@
-# discord-protect-bot
-
 # 🛡️ Discord Protection Bot
 
 ## Features
