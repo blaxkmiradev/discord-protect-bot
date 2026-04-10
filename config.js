@@ -1,0 +1,5 @@
+module.exports = {
+  TOKEN: "YOUR_DISCORD_BOT_TOKEN",
+  SPAM_LIMIT: 5,
+  TIME_WINDOW: 10000
+};
